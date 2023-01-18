@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="sync-points">
+		<item value="0" key="size"/>
+	</section>
+	<section name="last.test.options.tab">
+		<section name="editor-A1ED96FCBCE08870FF53E16135393031">
+		</section>
+	</section>
+	<section name="EDITOR_STATE">
+		<section name="editor-A1ED96FCBCE08870FF53E16135393031">
+			<item value="L/Google/jenkintest.testsuite" key="file"/>
+			<item value="0" key="lastEditorViewMode"/>
+			<list key="lastselection">
+				<item value="A1ED96FCBD970734FF53E16135393031"/>
+			</list>
+		</section>
+	</section>
+	<section name="com.ibm.rational.test.common.editor.framework.SearchPage">
+		<item value="false" key="srch.label.case.default"/>
+		<item value="false" key="srch.label.limit.default"/>
+		<item value="true" key="srch.label.recursive.default"/>
+		<item value="false" key="srch.label.select.default"/>
+		<item value="false" key="srch.label.regex.default"/>
+	</section>
+</section>
